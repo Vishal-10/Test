@@ -3,8 +3,6 @@
 #include<sys/types.h>
 #include<string.h>
 #include<fcntl.h>
-#include<stdio.h>
-
 void match_pattern(char *argv[])
 {
 int fd,r,j=0;
